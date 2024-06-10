@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello! I'm Francisco Mendezy
 
-<!--
-**fmendezy/fmendezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+From a young age, I have been fascinated by technology and its potential to solve complex problems. My journey in the IT industry has been driven by a deep passion for programming and web development. I am particularly skilled in backend technologies and enjoy creating efficient and scalable solutions.
 
-Here are some ideas to get you started:
+- 💼 Currently pursuing a degree in **Computer Engineering** at Instituto Profesional Lat. de Comercio Exterior (IPLACEX)
+- 🏢 Founder of Empire Digital Services, providing digital services and marketing strategies
+- 📚 Always eager to learn and grow in the field of IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: JavaScript, Python, PHP, C#, Java
+- **Frameworks/Libraries**: Node.js, React, Angular
+- **Databases**: MongoDB, MySQL
+- **DevOps Tools**: Docker, Kubernetes, Red Hat Linux
+- **Other Tools**: Visual Studio Code, Git, Asana, Slack, MS Office 365, Adobe Photoshop, Premiere
+
+## 🌐 Connect with Me
+- [Website](https://www.mendezy.cl)
+- [LinkedIn](https://www.linkedin.com/in/fmendezzy/)
+- [Email](mailto:fmy@outlook.cl)
+
+## 📈 GitHub Stats
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmendezzy&show_icons=true&theme=dark)
